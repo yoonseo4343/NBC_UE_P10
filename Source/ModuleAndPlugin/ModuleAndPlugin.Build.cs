@@ -18,7 +18,8 @@ public class ModuleAndPlugin : ModuleRules
 			"StateTreeModule",
 			"GameplayStateTreeModule",
 			"UMG",
-			"Slate"
+			"Slate",
+			"MySpartaLogger"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] { });
