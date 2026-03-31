@@ -4,14 +4,7 @@
 	"Category": "",
 	"Description": "",
 	"Modules": [
-		{
-			"Name": "MySpartaLogger",
-			"Type": "Runtime",
-			"LoadingPhase": "PreDefault",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		},
+
 		{
 			"Name": "ModuleAndPlugin",
 			"Type": "Runtime",
